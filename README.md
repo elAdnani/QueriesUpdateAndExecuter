@@ -1,2 +1,2 @@
-# QueriesUpdateAndExecuter
-ToolSqlExecuter
+## QueriesUpdateAndExecuter
+tool to easily execute a prepared statement
