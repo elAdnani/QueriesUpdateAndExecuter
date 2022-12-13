@@ -1,14 +1,15 @@
 package SqlTool;
 
-import java.sql.Connection;
-import java.sql.PreparedStatement;
-import java.sql.ResultSet;
-import java.sql.SQLException;
 /**
  * 
  * @author elAdnani
  *
  */
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+
 public class PreparedStatementExecuter {
 	protected PreparedStatement preparedStatement;
 	protected Connection connection;
